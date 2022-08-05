@@ -1,0 +1,29 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "lam quen voi express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --inspect index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phu-Mine/expressJS_blog.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "expressJS",
+    "node"
+  ],
+  "author": "PhuMine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phu-Mine/expressJS_blog/issues"
+  },
+  "homepage": "https://github.com/Phu-Mine/expressJS_blog#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
